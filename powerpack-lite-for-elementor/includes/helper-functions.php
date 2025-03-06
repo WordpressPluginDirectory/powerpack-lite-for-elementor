@@ -360,7 +360,7 @@ function pp_elements_lite_get_modules() {
 		'pp-info-table'             => esc_html__( 'Info Table', 'powerpack' ),
 		'pp-pricing-table'          => esc_html__( 'Pricing Table', 'powerpack' ),
 		'pp-price-menu'             => esc_html__( 'Price Menu', 'powerpack' ),
-		'pp-business-hours'         => esc_html__( 'Businsess Hours', 'powerpack' ),
+		'pp-business-hours'         => esc_html__( 'Business Hours', 'powerpack' ),
 		'pp-team-member'            => esc_html__( 'Team Member', 'powerpack' ),
 		'pp-team-member-carousel'   => esc_html__( 'Team Member Carousel', 'powerpack' ),
 		'pp-counter'                => esc_html__( 'Counter', 'powerpack' ),
@@ -385,6 +385,7 @@ function pp_elements_lite_get_modules() {
 		'pp-posts'                  => esc_html__( 'Posts', 'powerpack' ),
 		'pp-content-reveal'         => esc_html__( 'Content Reveal', 'powerpack' ),
 		'pp-random-image'           => esc_html__( 'Random Image', 'powerpack' ),
+		'pp-charts'                 => esc_html__( 'Advanced Charts', 'powerpack' ),
 	);
 
 	// Contact Form 7
