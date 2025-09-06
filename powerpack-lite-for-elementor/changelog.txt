@@ -1,3 +1,29 @@
+== 2.9.5 ==
+Release date: September 6, 2025
+* Enhancement: Info Box - Added support for all responsive resolutions
+* Fix: Info Box - Minor issue with icon responsive position option
+* Development: Tested compatibility with Elementor 3.32.0
+
+== 2.9.4 ==
+Release date: August 13, 2025
+* Enhancement: Pricing Table - Added Table style options
+* Enhancement: Pricing Table - Added fraction style option
+* Security Fix
+
+== 2.9.3 ==
+Release date: August 6, 2025
+* Enhancement: Updated Elementor compatibility tags
+* Fix: Charts - Added missing chart.js lib
+
+== 2.9.2 ==
+Release date: July 4, 2025
+* Enhancement: Promo Box - Updated description control type to WYSIWYG
+* Enhancement: Promo Box - Added option to show icon above or below content
+* Enhancement: Interactive Circle - Added an option to use image as tab icon
+* Enhancement: Gravity Forms - Added option to reload the page
+* Fix: Image Accordion - Dynamic links support for URL field
+* Fix: Image Scroll - Fixed JS error with scroll trigger
+
 == 2.9.1 ==
 Release date: March 26, 2025
 * Enhancement: Advanced Charts - Added option to show chart title
